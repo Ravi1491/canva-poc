@@ -1,0 +1,16 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "canva.js",
+  "scripts": {
+    "start": "node canva.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apify-client": "^2.8.4",
+    "axios": "^1.5.1"
+  }
+}
